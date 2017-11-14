@@ -1,0 +1,1374 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.30)  13 NOV 2017 03:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count92
+\WF@box=\box26
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count93
+\@cmidlb=\count94
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count95
+\@lastruleclass=\count96
+\@thisrulewidth=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+)
+\c@ContinuedFloat=\count97
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier.sty
+Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2004/01/30 1.1 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/futs/m/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 59.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> FML/futmi/m/it on input line 59.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> FML/futmi/m/it on input line 59.
+\symotherletters=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 61.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 69.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 113.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> FMS/futm/m/n on input line 113.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> FMS/futm/m/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 114.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+14.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 114.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 114
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 115.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 115.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 115.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 116.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 117.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/futs/m/it on input line 117.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/futs/m/it on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 187.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 210.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 215.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 225.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 227.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 229.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 231.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 233.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 235.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 237.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 239.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 241.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 243.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 247.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 248.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 249.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 250.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 251.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 252.
+LaTeX Font Info:    Redeclaring math accent \check on input line 253.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 254.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
+\symUfutm=\mathgroup5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@count=\count98
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen135
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip53
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen136
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count101
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count102
+\sf@farskip=\skip54
+\sf@captopadj=\dimen137
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip57
+\sf@bottom=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/alphalph.sty
+Package: alphalph 2011/05/13 v2.4 Convert numbers to letters (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks18
+\float@box=\box27
+\@float@everytoks=\toks19
+\@floatcapt=\box28
+) (./Report.aux
+
+LaTeX Warning: Label `fig:f1' multiply defined.
+
+
+LaTeX Warning: Label `T:equipos' multiply defined.
+
+
+LaTeX Warning: Label `T:equipos' multiply defined.
+
+
+LaTeX Warning: Label `T:equipos' multiply defined.
+
+)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 53.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 53.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
+File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
+)
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 53.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
+File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
+)
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 53.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 53.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=633.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 53.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen138
+\scratchbox=\box29
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen139
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 53.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `futs' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 70.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 70
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
+)
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 70.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 70.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 70.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 70.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 70.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 70.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 71.
+ (./Report.toc
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 2.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 2.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 2.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 2.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 2.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 2.
+ [1
+
+])
+\tf@toc=\write3
+\openout3 = `Report.toc'.
+
+ [2]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <17.28> not available
+(Font)              Font shape `T1/futs/b/sc' tried instead on input line 83.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+<Images/flow_chart.png, id=14, 1149.29375pt x 413.545pt>
+File: Images/flow_chart.png Graphic file (type png)
+
+<use Images/flow_chart.png>
+Package pdftex.def Info: Images/flow_chart.png used on input line 92.
+(pdftex.def)             Requested size: 452.9679pt x 162.98564pt.
+ [3 <./Images/flow_chart.png>]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 101.
+
+<Images/class_distribution.png, id=18, 674.52pt x 235.88126pt>
+File: Images/class_distribution.png Graphic file (type png)
+
+<use Images/class_distribution.png>
+Package pdftex.def Info: Images/class_distribution.png used on input line 107.
+(pdftex.def)             Requested size: 452.9679pt x 158.40674pt.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 108.
+
+<Images/c_1405_2368.png, id=20, 585.18625pt x 418.56375pt>
+File: Images/c_1405_2368.png Graphic file (type png)
+
+<use Images/c_1405_2368.png>
+Package pdftex.def Info: Images/c_1405_2368.png used on input line 113.
+(pdftex.def)             Requested size: 181.18439pt x 129.59375pt.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 113.
+
+<Images/c_f_1371_2433.png, id=21, 583.17876pt x 419.5675pt>
+File: Images/c_f_1371_2433.png Graphic file (type png)
+
+<use Images/c_f_1371_2433.png>
+Package pdftex.def Info: Images/c_f_1371_2433.png used on input line 115.
+(pdftex.def)             Requested size: 181.18439pt x 130.35266pt.
+
+<Images/c_f_681_2546.png, id=22, 587.19376pt x 418.56375pt>
+File: Images/c_f_681_2546.png Graphic file (type png)
+
+<use Images/c_f_681_2546.png>
+Package pdftex.def Info: Images/c_f_681_2546.png used on input line 117.
+(pdftex.def)             Requested size: 181.18439pt x 129.14667pt.
+
+<Images/c_f_697_2571.png, id=23, 588.1975pt x 418.56375pt>
+File: Images/c_f_697_2571.png Graphic file (type png)
+
+<use Images/c_f_697_2571.png>
+Package pdftex.def Info: Images/c_f_697_2571.png used on input line 119.
+(pdftex.def)             Requested size: 181.18439pt x 128.92952pt.
+
+<Images/Matrix2.png, id=24, 1827.82875pt x 785.93625pt>
+File: Images/Matrix2.png Graphic file (type png)
+
+<use Images/Matrix2.png>
+Package pdftex.def Info: Images/Matrix2.png used on input line 124.
+(pdftex.def)             Requested size: 452.9679pt x 194.76866pt.
+ [4 <./Images/class_distribution.png> <./Images/c_1405_2368.png> <./Images/c_f_
+1371_2433.png> <./Images/c_f_681_2546.png> <./Images/c_f_697_2571.png>] <Images
+/matrix1.png, id=29, 1749.53625pt x 772.8875pt>
+File: Images/matrix1.png Graphic file (type png)
+
+<use Images/matrix1.png>
+Package pdftex.def Info: Images/matrix1.png used on input line 130.
+(pdftex.def)             Requested size: 452.9679pt x 200.0969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+[5 <./Images/Matrix2.png> <./Images/matrix1.png>]
+<Images/997.png, id=33, 925.4575pt x 427.5975pt>
+File: Images/997.png Graphic file (type png)
+ <use Images/997.png>
+Package pdftex.def Info: Images/997.png used on input line 144.
+(pdftex.def)             Requested size: 203.83417pt x 94.17613pt.
+
+<Images/f_1663.png, id=34, 925.4575pt x 430.60875pt>
+File: Images/f_1663.png Graphic file (type png)
+ <use Images/f_1663.png>
+Package pdftex.def Info: Images/f_1663.png used on input line 146.
+(pdftex.def)             Requested size: 203.83417pt x 94.83934pt.
+
+<Images/f_2033.png, id=35, 927.465pt x 431.6125pt>
+File: Images/f_2033.png Graphic file (type png)
+ <use Images/f_2033.png>
+Package pdftex.def Info: Images/f_2033.png used on input line 148.
+(pdftex.def)             Requested size: 203.83417pt x 94.85625pt.
+
+<Images/f_2546.png, id=36, 923.45pt x 432.61626pt>
+File: Images/f_2546.png Graphic file (type png)
+ <use Images/f_2546.png>
+Package pdftex.def Info: Images/f_2546.png used on input line 150.
+(pdftex.def)             Requested size: 203.83417pt x 95.49272pt.
+
+<Images/f_507.png, id=37, 926.46124pt x 430.60875pt>
+File: Images/f_507.png Graphic file (type png)
+ <use Images/f_507.png>
+Package pdftex.def Info: Images/f_507.png used on input line 152.
+(pdftex.def)             Requested size: 203.83417pt x 94.7342pt.
+
+<Images/f_996.png, id=38, 925.4575pt x 430.60875pt>
+File: Images/f_996.png Graphic file (type png)
+ <use Images/f_996.png>
+Package pdftex.def Info: Images/f_996.png used on input line 154.
+(pdftex.def)             Requested size: 203.83417pt x 94.83934pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 167.
+[6 <./Images/997.png> <./Images/f_1663.png> <./Images/f_2033.png> <./Images/f_2
+546.png> <./Images/f_507.png> <./Images/f_996.png>]
+<Images/row_wise.png, id=43, 987.2082pt x 493.6041pt>
+File: Images/row_wise.png Graphic file (type png)
+
+<use Images/row_wise.png>
+Package pdftex.def Info: Images/row_wise.png used on input line 181.
+(pdftex.def)             Requested size: 452.9679pt x 226.48068pt.
+
+<Images/col-wise.png, id=44, 987.2082pt x 493.6041pt>
+File: Images/col-wise.png Graphic file (type png)
+
+<use Images/col-wise.png>
+Package pdftex.def Info: Images/col-wise.png used on input line 188.
+(pdftex.def)             Requested size: 452.9679pt x 226.48068pt.
+
+<Images/row_wise_test.png, id=45, 462.528pt x 346.896pt>
+File: Images/row_wise_test.png Graphic file (type png)
+
+<use Images/row_wise_test.png>
+Package pdftex.def Info: Images/row_wise_test.png used on input line 195.
+(pdftex.def)             Requested size: 362.37569pt x 271.79521pt.
+ [7 <./Images/row_wise.png> <./Images/col-wise.png>] <Images/col_wise_test.png,
+ id=51, 462.528pt x 346.896pt>
+File: Images/col_wise_test.png Graphic file (type png)
+
+<use Images/col_wise_test.png>
+Package pdftex.def Info: Images/col_wise_test.png used on input line 201.
+(pdftex.def)             Requested size: 362.37569pt x 271.79521pt.
+ [8 <./Images/row_wise_test.png> <./Images/col_wise_test.png>]
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 209
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `futs' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--257
+
+ []
+
+[10] <Images/pca_var.png, id=63, 462.528pt x 346.896pt>
+File: Images/pca_var.png Graphic file (type png)
+
+<use Images/pca_var.png>
+Package pdftex.def Info: Images/pca_var.png used on input line 262.
+(pdftex.def)             Requested size: 362.37569pt x 271.79521pt.
+
+<Images/pca_var_zoom.png, id=64, 462.528pt x 346.896pt>
+File: Images/pca_var_zoom.png Graphic file (type png)
+
+<use Images/pca_var_zoom.png>
+Package pdftex.def Info: Images/pca_var_zoom.png used on input line 268.
+(pdftex.def)             Requested size: 362.37569pt x 271.79521pt.
+ [11 <./Images/pca_var.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+<Images/cluster_densitybased.png, id=69, 920.43875pt x 911.405pt>
+File: Images/cluster_densitybased.png Graphic file (type png)
+
+<use Images/cluster_densitybased.png>
+Package pdftex.def Info: Images/cluster_densitybased.png used on input line 282
+.
+(pdftex.def)             Requested size: 362.37569pt x 358.8259pt.
+ [12 <./Images/pca_var_zoom.png>]
+<Images/cluster_kmeans_10.png, id=75, 924.45375pt x 904.37875pt>
+File: Images/cluster_kmeans_10.png Graphic file (type png)
+
+<use Images/cluster_kmeans_10.png>
+Package pdftex.def Info: Images/cluster_kmeans_10.png used on input line 291.
+(pdftex.def)             Requested size: 362.37569pt x 354.50026pt.
+ [13 <./Images/cluster_densitybased.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+<Images/Labels_class_distribution.png, id=79, 927.465pt x 427.5975pt>
+File: Images/Labels_class_distribution.png Graphic file (type png)
+
+<use Images/Labels_class_distribution.png>
+Package pdftex.def Info: Images/Labels_class_distribution.png used on input lin
+e 301.
+(pdftex.def)             Requested size: 362.37569pt x 167.069pt.
+ [14 <./Images/cluster_kmeans_10.png>] <Images/cluster1.png, id=83, 925.4575pt 
+x 426.59375pt>
+File: Images/cluster1.png Graphic file (type png)
+
+<use Images/cluster1.png>
+Package pdftex.def Info: Images/cluster1.png used on input line 307.
+(pdftex.def)             Requested size: 362.37569pt x 167.04134pt.
+ [15 <./Images/Labels_class_distribution.png> <./Images/cluster1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+<Images/nn.png, id=87, 469.755pt x 330.23375pt>
+File: Images/nn.png Graphic file (type png)
+ <use Images/nn.png>
+Package pdftex.def Info: Images/nn.png used on input line 328.
+(pdftex.def)             Requested size: 362.37569pt x 254.74434pt.
+ [16 <./Images/nn.png (PNG copy)>] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 386--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--389
+
+ []
+
+
+Overfull \hbox (18.39774pt too wide) in paragraph at lines 386--389
+\T1/futs/m/n/12 (-20) learning-rate-init=0.0005, power-t=0.5, max-iter=15000, s
+hu-fle=True, random-state=5, tol=0.0001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--389
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+<Images/nn2.png, id=98, 416.55624pt x 510.90875pt>
+File: Images/nn2.png Graphic file (type png)
+ <use Images/nn2.png>
+Package pdftex.def Info: Images/nn2.png used on input line 397.
+(pdftex.def)             Requested size: 362.37569pt x 444.47923pt.
+
+[19 <./Images/nn2.png>] <Images/nn3.png, id=102, 415.5525pt x 499.8675pt>
+File: Images/nn3.png Graphic file (type png)
+
+<use Images/nn3.png>
+Package pdftex.def Info: Images/nn3.png used on input line 406.
+(pdftex.def)             Requested size: 362.37569pt x 435.91853pt.
+ [20 <./Images/nn3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+[21]
+Overfull \hbox (28.18816pt too wide) in paragraph at lines 438--439
+[]\T1/futs/m/n/12 (-20) n$[]$estimators=2000, max$[]$depth=25, cri-te-rion='gin
+i', min$[]$samples$[]$split=2, min$[]$samples$[]$leaf=1,
+ []
+
+<Images/rf1.png, id=109, 421.575pt x 506.89375pt>
+File: Images/rf1.png Graphic file (type png)
+ <use Images/rf1.png>
+Package pdftex.def Info: Images/rf1.png used on input line 442.
+(pdftex.def)             Requested size: 317.07614pt x 381.25221pt.
+ [22 <./Images/rf1.png>] <Images/rf2.png, id=113, 426.59375pt x 510.90875pt>
+File: Images/rf2.png Graphic file (type png)
+
+<use Images/rf2.png>
+Package pdftex.def Info: Images/rf2.png used on input line 450.
+(pdftex.def)             Requested size: 317.07614pt x 379.76605pt.
+
+Overfull \hbox (28.18816pt too wide) in paragraph at lines 447--452
+[]\T1/futs/m/n/12 (-20) n$[]$estimators=1750, max$[]$depth=25, cri-te-rion='gin
+i', min$[]$samples$[]$split=2, min$[]$samples$[]$leaf=1,
+ []
+
+[23 <./Images/rf2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+Overfull \hbox (1.99603pt too wide) in paragraph at lines 485--486
+[]\T1/futs/m/n/12 (-20) min$[]$impurity$[]$decrease=0.0, min$[]$impurity$[]$spl
+it=None, boot-strap=True, oob$[]$score=False,
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+
+ []
+
+<Images/rf3.png, id=121, 421.575pt x 512.91624pt>
+File: Images/rf3.png Graphic file (type png)
+ <use Images/rf3.png>
+Package pdftex.def Info: Images/rf3.png used on input line 495.
+(pdftex.def)             Requested size: 317.07614pt x 385.78194pt.
+
+Overfull \hbox (28.18816pt too wide) in paragraph at lines 492--497
+[]\T1/futs/m/n/12 (-20) n$[]$estimators=2000, max$[]$depth=25, cri-te-rion='gin
+i', min$[]$samples$[]$split=2, min$[]$samples$[]$leaf=1,
+ []
+
+[25 <./Images/rf3.png>] <Images/rf4.png, id=125, 420.57124pt x 512.91624pt>
+File: Images/rf4.png Graphic file (type png)
+
+<use Images/rf4.png>
+Package pdftex.def Info: Images/rf4.png used on input line 503.
+(pdftex.def)             Requested size: 317.07614pt x 386.69763pt.
+
+Overfull \hbox (28.18816pt too wide) in paragraph at lines 500--505
+[]\T1/futs/m/n/12 (-20) n$[]$estimators=1750, max$[]$depth=25, cri-te-rion='gin
+i', min$[]$samples$[]$split=2, min$[]$samples$[]$leaf=1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+
+Overfull \hbox (1.99603pt too wide) in paragraph at lines 511--512
+[]\T1/futs/m/n/12 (-20) min$[]$impurity$[]$decrease=0.0, min$[]$impurity$[]$spl
+it=None, boot-strap=True, oob$[]$score=False,
+ []
+
+[26 <./Images/rf4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--519
+
+ []
+
+<Images/ab.png, id=129, 407.5225pt x 503.8825pt>
+File: Images/ab.png Graphic file (type png)
+ <use Images/ab.png>
+Package pdftex.def Info: Images/ab.png used on input line 523.
+(pdftex.def)             Requested size: 317.07614pt x 392.06569pt.
+ [27 <./Images/ab.png>] <Images/ab2.png, id=133, 418.56375pt x 506.89375pt>
+File: Images/ab2.png Graphic file (type png)
+
+<use Images/ab2.png>
+Package pdftex.def Info: Images/ab2.png used on input line 536.
+(pdftex.def)             Requested size: 317.07614pt x 383.98253pt.
+ [28 <./Images/ab2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+[29] <Images/train_loss_gb.png, id=140, 462.528pt x 346.896pt>
+File: Images/train_loss_gb.png Graphic file (type png)
+
+<use Images/train_loss_gb.png>
+Package pdftex.def Info: Images/train_loss_gb.png used on input line 572.
+(pdftex.def)             Requested size: 317.07614pt x 237.81816pt.
+ [30 <./Images/train_loss_gb.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
+
+ []
+
+<Images/gb1.png, id=146, 432.61626pt x 509.905pt>
+File: Images/gb1.png Graphic file (type png)
+ <use Images/gb1.png>
+Package pdftex.def Info: Images/gb1.png used on input line 582.
+(pdftex.def)             Requested size: 317.07614pt x 373.73697pt.
+ [31 <./Images/gb1.png>] <Images/gb2.png, id=150, 425.59pt x 514.92375pt>
+File: Images/gb2.png Graphic file (type png)
+
+<use Images/gb2.png>
+Package pdftex.def Info: Images/gb2.png used on input line 590.
+(pdftex.def)             Requested size: 317.07614pt x 383.65402pt.
+ [32 <./Images/gb2.png>]
+<Images/gb3.png, id=154, 424.58624pt x 506.89375pt>
+File: Images/gb3.png Graphic file (type png)
+ <use Images/gb3.png>
+Package pdftex.def Info: Images/gb3.png used on input line 598.
+(pdftex.def)             Requested size: 317.07614pt x 378.5606pt.
+
+[33 <./Images/gb3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 640--641
+
+ []
+
+[34] <Images/nb_g.png, id=163, 418.56375pt x 510.90875pt>
+File: Images/nb_g.png Graphic file (type png)
+
+<use Images/nb_g.png>
+Package pdftex.def Info: Images/nb_g.png used on input line 646.
+(pdftex.def)             Requested size: 317.07614pt x 387.02396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--652
+
+ []
+
+[35 <./Images/nb_g.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 667--668
+
+ []
+
+[36] <Images/xgb1.png, id=172, 419.5675pt x 500.87125pt>
+File: Images/xgb1.png Graphic file (type png)
+ <use Images/xgb1.png>
+Package pdftex.def Info: Images/xgb1.png used on input line 687.
+(pdftex.def)             Requested size: 317.07614pt x 378.51851pt.
+
+[37 <./Images/xgb1.png>] <Images/xgb2.png, id=176, 423.5825pt x 505.89pt>
+File: Images/xgb2.png Graphic file (type png)
+
+<use Images/xgb2.png>
+Package pdftex.def Info: Images/xgb2.png used on input line 695.
+(pdftex.def)             Requested size: 317.07614pt x 378.69867pt.
+ [38 <./Images/xgb2.png>]
+<Images/xgb3.png, id=180, 422.57875pt x 507.8975pt>
+File: Images/xgb3.png Graphic file (type png)
+ <use Images/xgb3.png>
+Package pdftex.def Info: Images/xgb3.png used on input line 703.
+(pdftex.def)             Requested size: 317.07614pt x 381.10045pt.
+
+[39 <./Images/xgb3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+
+Overfull \hbox (14.2717pt too wide) in paragraph at lines 718--719
+[]\T1/futs/m/n/12 (-20) Gradient Boost-ing : n$[]$estimators=1500, learning$[]$
+rate=0.1, max$[]$depth=2, random$[]$state=0,
+ []
+
+
+Overfull \hbox (15.79117pt too wide) in paragraph at lines 719--720
+[]\T1/futs/m/n/12 (-20) Random For-est : n$[]$estimators=2000, max$[]$depth=25,
+ cri-te-rion='gini', min$[]$samples$[]$split=2,
+ []
+
+<Images/vote.png, id=184, 421.575pt x 505.89pt>
+File: Images/vote.png Graphic file (type png)
+ <use Images/vote.png>
+Package pdftex.def Info: Images/vote.png used on input line 724.
+(pdftex.def)             Requested size: 362.37569pt x 434.8562pt.
+ [40]
+[41 <./Images/vote.png>] [42]
+Overfull \hbox (6.88957pt too wide) in paragraph at lines 746--747
+[]\T1/futs/m/n/12 (-20) Next we per-formed PCA and ex-tracted some fea-tures. M
+ostly in the set of 50,60,80,100,200 
+ []
+
+[43]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 762.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--765
+$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / generat
+ed / sklearn . ensemble .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--765
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--770
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--775
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--785
+[]$\T1/cmtt/m/n/12 https : / / www . youtube . com / watch ? v = 1SxPbhaK _ uc 
+& list =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--785
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--790
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . ensemble .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--799
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . ensemble .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--804
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . naive _ bayes .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--809
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . neighbors .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--814
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . discriminant _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--814
+\T1/cmtt/m/n/12 analysis . LinearDiscriminantAnalysis . html # sklearn . discri
+minant _ analysis .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--819
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . neural _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--824
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . ensemble .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--824
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 826--829
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn . svm . SVC . html #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+[]$\T1/cmtt/m/n/12 http : / / scikit -[] learn . org / stable / modules / gener
+ated / sklearn .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+\T1/cmtt/m/n/12 ensemble . GradientBoostingClassifier . html # sklearn . ensemb
+le .
+ []
+
+
+AED: lastpage setting LastPage
+[45] (./Report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7281 strings out of 493029
+ 112450 string characters out of 6136234
+ 307893 words of memory out of 5000000
+ 10399 multiletter control sequences out of 15000+600000
+ 128221 words of font info for 245 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,49p,533b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/fourier/fourier-mlit.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe
+/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Report.pdf (46 pages, 1444952 bytes).
+PDF statistics:
+ 231 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 39123 words of extra memory for PDF output out of 42996 (max. 10000000)
+
